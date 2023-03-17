@@ -1,0 +1,21 @@
+{
+  "contactMedium": "CHAT",
+  "customerType": "AFFILIATE",
+  "affiliate":{
+    "name": "Michael Scott",
+    "email": "testreliancehealth@gmail.com"
+  },
+  "feedItems": [
+    {
+      "description": "Avon",
+      "feedTypeId": 1,
+      "feedCategoryId": 2,
+      "feedLabelId": 1
+    },	{
+      "description": "Avon",
+      "feedTypeId": 1,
+      "feedCategoryId": 3,
+      "feedLabelId": 1
+    }
+  ]
+}

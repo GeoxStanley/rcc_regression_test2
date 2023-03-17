@@ -1,1 +1,0 @@
-{"uuid":"7daa65bc-e865-48ff-a233-ee99745916d8","name":"Base.TestFlight.Waiter","children":["9715412f-9770-475a-b742-f3837cc0364b"],"description":"","befores":[{"name":"Waiter","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1661937117409,"stop":1661937117916}],"afters":[],"start":1661937117408,"stop":1661937117917}

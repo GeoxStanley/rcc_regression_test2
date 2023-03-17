@@ -1,0 +1,20 @@
+{
+  "contactMedium": "INSTAGRAM",
+  "customerType": "RFC_PATIENT",
+  "patient":{
+    "email": "testreliancehealth@gmail.com"
+  },
+  "feedItems": [
+    {
+      "description": "Testing the feeds for patient",
+      "feedTypeId": 1,
+      "feedCategoryId": 2,
+      "feedLabelId": 1
+    },	{
+      "description": "Testing the feeds for patient",
+      "feedTypeId": 10,
+      "feedCategoryId": 2,
+      "feedLabelId": 1
+    }
+  ]
+}

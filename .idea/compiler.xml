@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Notification_MS_regression_Test" />
+        <module name="RCC_MS_regression_Test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Notification_MS_regression_Test" target="9" />
+      <module name="RCC_MS_regression_Test" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>

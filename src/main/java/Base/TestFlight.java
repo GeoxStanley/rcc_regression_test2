@@ -75,7 +75,7 @@ public class TestFlight {
 
     @BeforeMethod(alwaysRun = true)
     protected void Waiter() throws InterruptedException {
-        TimeUnit.MILLISECONDS.sleep(500);
+        TimeUnit.MILLISECONDS.sleep(1000);
     }
 
 }
